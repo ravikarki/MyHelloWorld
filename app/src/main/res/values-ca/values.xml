@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiHolamon</string>
+    <string name="hello_world">Hola Mon!</string>
+    <string name="edit_message">Seva nom</string>
+    <string name="button_send">Enviar</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Activitat Principal</string>
+    <string name="title_activity_display_message">el teu missatge</string>
+</resources>
